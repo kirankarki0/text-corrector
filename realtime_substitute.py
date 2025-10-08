@@ -12,7 +12,8 @@ DEFAULT_MAPPING = {
     '$': 's',
     '1': 'l',
     'vv': 'w',
-    'zz': 'x'
+    'zz': 'x',
+    ',,': '.'
 }
 
 # Global mapping dictionary
